@@ -8,6 +8,8 @@ Studying eclipses is an opportunity not only to teach astronomy but to demystify
 Enabling educators to understand the wonder of astronomy in an engaging way.
 Showing its impact on everyday life.
 
+https://eclipse-v2-0.vercel.app/
+
 Share the link https://eclipse-force.vercel.app/
 
 ![](https://github.com/ricardodarocha/Eclipse_Force/blob/main/Design/Demo/Concept.PNG)
